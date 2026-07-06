@@ -1,0 +1,78 @@
+# Допълнителен контекст и пълна библиография
+
+Companion на `Plan_pisane_NIP_MT.md` — чети и двата файла заедно в Cowork. Този файл е статичен reference (библиография + методологическа логика); планът е живият tracker с дати и таблици за попълване.
+
+---
+
+## 1. Пълна библиография
+
+[Certain] за всички APA данни по-долу — проверени в оригинала (издател/архив) или кръстосано потвърдени в поне два независими източника. Формат: APA, защото така са проверени; конвертирай в IEEE номерация едва след финален текст — номерата зависят от реда на първо цитиране, който още не съществува.
+
+### Подходи и приложения (Гл. 1)
+
+- Dickey, E., & Bejarano, A. (2024). GAIDE: A Framework for Using Generative AI to Assist in Course Content Development. *2024 IEEE Frontiers in Education Conference (FIE)*, 1–9. https://doi.org/10.1109/FIE61694.2024.10893132
+- Chai, D. S., Kim, H. S., Kim, K. N., Ha, Y., Shin, S. S. H., & Yoon, S. W. (2025). Generative artificial intelligence in instructional system design. *SAGE Open*, 15(1). https://doi.org/10.1177/15344843251320256
+- Choi, G. W., Kim, S. H., Lee, D., & Moon, J. (2024). Utilizing generative AI for instructional design: Exploring strengths, weaknesses, opportunities, and threats. *TechTrends*, 68(4), 832–844. https://doi.org/10.1007/s11528-024-00967-w
+- Liu, Z., Yin, S. X., Goh, D. H.-L., & Chen, N. F. (2025). COGENT: A Curriculum-oriented Framework for Generating Grade-appropriate Educational Content. *Proceedings of the 20th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2025)*. ACL Anthology: 2025.bea-1.10
+- Yao, H., Xu, W., Turnau, J., Kellam, N., & Wei, H. (2026). Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design. *Proceedings of EACL 2026*, Vol. 1, 4087–4109. (Препринт: arXiv:2508.19611, 2025)
+- Chen, X., Hu, Z., & Wang, C. (2024). Empowering education development through AIGC: A systematic literature review. *Education and Information Technologies*, 29(13), 17485–17537. https://doi.org/10.1007/s10639-024-12549-7
+- Kasneci, E., Sessler, K., Küchemann, S., Bannert, M., Dementieva, D., Fischer, F., et al. (2023). ChatGPT for good? On opportunities and challenges of large language models for education. *Learning and Individual Differences*, 103, 102274. https://doi.org/10.1016/j.lindif.2023.102274 — *добавен 07.2026, проверен (ScienceDirect); опора за 1.3 (принцип на действие, възможности, ограничения), допълва 1.5*
+
+### Критерии за качество (Гл. 2)
+
+- Denny, P., Khosravi, H., Hellas, A., Leinonen, J., & Sarsa, S. (2023). Can We Trust AI-Generated Educational Content? Comparative Analysis of Human and AI-Generated Learning Resources. arXiv:2306.10509
+- Huang, Q., Lv, C., Lu, L., & Tu, S. (2025). Evaluating the Quality of AI-Generated Digital Educational Resources for University Teaching and Learning. *Systems*, 13(3), 174. https://doi.org/10.3390/systems13030174
+- Warren, S. J., Boston Vogt, E., Tincher, B., & Yang, J. (2026). Enhancing quality assurance through strategic artificial intelligence integration: a framework for higher education digital transformation. *Quality Assurance in Education*, 34(2), 205–222.
+- Ramezani, S. G., & Mostafavi, Z. S. (2025). Developing and validating a comprehensive scale for accreditation standards and quality assurance in e-learning institutions. *Education and Information Technologies*, 30(15), 21139–21187. https://doi.org/10.1007/s10639-025-13587-5
+- Staneviciene, E., & Žekienė, G. (2025). The Use of Multimedia in the Teaching and Learning Process of Higher Education: A Systematic Review. *Sustainability*, 17(19), 8859. https://doi.org/10.3390/su17198859
+- du Preez, I., & Jacobs, L. (2025). Pedagogical and visual design principles for online learning material: insights from quality guiding documents in diverse educational contexts. *Interactive Learning Environments*, 1435–1451. https://doi.org/10.1080/10494820.2025.2523390
+- Choi, G. W., & Seo, J. Y. (2024). Accessibility, Usability, and Universal Design for Learning: Discussion of Three Key LX/UX Elements for Inclusive Learning Design. *TechTrends*, 68(5), 936–945. https://doi.org/10.1007/s11528-024-00987-6
+- Hadra, M., Cambridge, K., & Mesbah, M. (2026). Evaluating the accuracy and reliability of AI content detectors in academic contexts. *International Journal for Educational Integrity*, 22, Article 4. https://doi.org/10.1007/s40979-026-00213-1
+
+### Фундаментални източници — флагнати, различна степен на проверка
+
+- [Certain] Merrill, M. D. (2002). First principles of instruction. *Educational Technology Research and Development*, 50(3), 43–59. https://doi.org/10.1007/BF02505024
+- [Certain] Clark, R. C., & Mayer, R. E. (2024). *e-Learning and the science of instruction: Proven guidelines for consumers and designers of multimedia learning* (5th ed.). Wiley. ISBN 9781394177370 — *добавен 07.2026, проверен (Wiley); опора за 1.1 (дефиниция и форми на е-съдържание) и 2.4 (мултимедийни принципи, яснота)*
+- [Certain] Redecker, C. (2017). *European Framework for the Digital Competence of Educators: DigCompEdu* (Y. Punie, Ed.). Publications Office of the European Union. JRC107466 — *добавен 07.2026, проверен (JRC репозиторий); фон за 1.1–1.2 (Area 2: дигитални ресурси). DOI не е проверен — цитирай през JRC handle.*
+- [Likely] CAST (2024). Universal Design for Learning Guidelines, version 3.0. Уеб ресурс — не съм проверил точния citation формат без DOI, провери на cast.org.
+- [Guessing] Gagné — Nine Events of Instruction. Концепцията е сигурна; конкретното издание (1965 оригинал vs. 2005 Gagné/Wager/Golas/Keller) не е проверено — не добавяй в библиографията без да потвърдиш кое цитираш.
+
+---
+
+## 2. Методологическа логика: разпределение по аргументативна годност, не по тема
+
+Източник, който е *за* темата на подточка, не значи, че върши работа *в* нея. Тестът при screening не е "засяга ли 1.4", а "подкрепя, усложнява или противоречи ли на работното твърдение за 1.4". Screening темплейтът (виж плана, Стъпка 1.3) принуждава едноредово попълване какво точно доказва всеки източник спрямо твърдението — ако не можеш да го попълниш, източникът отива във фон или отпада.
+
+Неравномерно разпределение между подточки не е проблем за прикриване — то е диагностика. Пример от текущия инвентар: 1.4 носи пет източника, 1.3 — един. Реакцията не е "добавям изкуствено", а или свиваш обхвата на твърдението за пренаселеното подточие, или search-ваш прицелно точно там, където е тънко.
+
+---
+
+## 3. Съзнателно изключени източници
+
+- **Маркетингови блогове** (Disprz, Mindsmith, Digital Learning Institute) — не научни източници, изключени системно при първото търсене.
+- **LORI / Wiley-Redeker таксономия (2007)** — извън дори 10-годишния прозорец (2016–2026), не само първоначалния 3-годишен. Остава изключена; няма причина да я преразглеждаш, освен ако катедрата изрично поиска историческа рамка.
+- **ChatGPT / patient-education readability проучвания** — методологически интересни (DISCERN критерии за четивност), но грешен домейн (пациентски материали, не учебно съдържание).
+- **NTIRE / AIS image-quality challenge papers** — грешен домейн изцяло (codec/media compression quality, не образование). Изникнаха само защото "качество на AI-генерирано съдържание" е двусмислена заявка при търсене.
+
+---
+
+## 4. Неизследвани странични ъгли
+
+Споменати веднъж в разговора, не доразвити с търсене:
+
+- Генериране на мултимедийно съдържание (видео, изображения) чрез GenAI за е-learning.
+- Адаптивно / персонализирано учебно съдържание чрез GenAI.
+
+Мултимедийната посока приляга към 1.4 (петте му източника покриват текст, не видео/изображения), адаптивното съдържание — към 2.3. Реално тънките подточки обаче са другаде: **1.3**, **2.4** и **1.1**. *Адресирано 07.2026:* 1.3 → Kasneci et al. (2023); 1.1 и 2.4 → Clark & Mayer (2024); фон 1.1–1.2 → Redecker (2017). Остатъчна тънкост: стилово-езиковата част на 2.4 отвъд мултимедийните принципи.
+
+---
+
+## 5. Риск за тон в Гл. 2 и 3.8
+
+Гл. 2 и особено анализът на резултатите от апробирането (3.8) изискват критична дистанция, не каталог от добродетели. Риск: несъзнателно наследяване на вокабуляра от изключените маркетингови източници ("революционизира", "game-changer") в академичния текст. Huang et al. (2025) и Instructional Agents (2026) и двата документират провали/ограничения наред с постиженията — дръж същия баланс в собствения анализ.
+
+---
+
+## 6. Логика на заглавието — разширена
+
+Оригиналната рамка на проекта ("Подходи, приложения и критерии за качество") звучи като три паралелни теми. Работното заглавие на МТ е по-тясно — модел за оценяване. Ако увода на проекта не сигнализира от началото, че трите оси водят към модел, рецензент може да усети Гл. 1–2 като лутане без посока до внезапната поява на Гл. 3. Затова 2.7 е мост, не обобщение — увода трябва да прави същото обещание в миниатюра, само по-рано.
